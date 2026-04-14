@@ -15,6 +15,12 @@ Simular o comportamento do escoamento superficial em eventos de precipitação i
 ## Aplicação
 Planejamento de drenagem urbana sustentável em áreas críticas de Belém-PA.
 
+## Estrutura do repositório
+
+- /dados → dados de entrada da modelagem
+- /modelo → arquivos do modelo hidrológico
+- /resultados → saídas das simulações
+
 ## Autor
 Manoel Vidal  
 Engenheiro Ambiental e Sanitarista (UEPA)  
