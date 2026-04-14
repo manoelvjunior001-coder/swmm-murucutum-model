@@ -1,5 +1,5 @@
 # swmm-murucutum-model
-# Modelagem Hidrológico-Hidráulica da Sub-bacia do Murucututu
+# Modelagem Hidrologica da Bacia do Murucutum 
 
 ## Descrição
 Este repositório apresenta o desenvolvimento de um modelo hidrológico-hidráulico utilizando o software SWMM aplicado à bacia do Murucutum, localizada em Belém-PA.
